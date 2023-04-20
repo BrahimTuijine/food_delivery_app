@@ -1,11 +1,7 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
 import 'package:flutter/material.dart';
-import 'package:flutter_hooks/flutter_hooks.dart';
 
 import 'package:food_delivery_app/core/utils/ui_helper.dart';
-import 'package:food_delivery_app/data.dart';
-
-
 
 class CategoryItem extends StatelessWidget {
   final Widget icon;
